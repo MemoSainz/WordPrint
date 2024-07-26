@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Word Print
 
 A program where it's being shown the words you insert.
